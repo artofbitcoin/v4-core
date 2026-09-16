@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours documentaire en français présente le singleton PoolManager, les actions de règlement, les hooks personnalisables et les limites de sécurité de Uniswap v4 Core. Voir [docs/fr/](docs/fr/) pour le sommaire.
+
 # Uniswap v4 Core
 
 [![Lint](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml)
